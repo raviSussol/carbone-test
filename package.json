@@ -1,0 +1,12 @@
+{
+  "name": "carbone-test",
+  "version": "1.0.0",
+  "main": "carbone.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node carbone.js"
+  },
+  "dependencies": {
+    "carbone": "^3.2.3"
+  }
+}
